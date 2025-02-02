@@ -40,9 +40,9 @@ crontab -e
 00 * * * *  /path/to/script/duinocoin.sh >/dev/null 2>&1
 ```
 
-☕️ Buy me a coffee:
+☕️ Regalami un caffè:
 
-(https://www.paypal.me/giovannigabriele)
+(https://paypal.me/giovannigabriele)
 
 <img src="https://github.com/AzagraMac/AzagraMac/assets/571796/f4f27bb8-cc3a-47e7-94a9-c4569d412a80" width="19" height="19" title="bitcoin"/> <code>3LE5jNefEzejaHjbpPWCAZk5TaxfGt7GQd</code> <br>
 <img src="https://github.com/AzagraMac/AzagraMac/assets/571796/59998222-1cc2-405e-b5f6-323d5e456ba9" width="19" height="19" title="ethereum"/> <code>0x8B7562966D9D68b56Ca929c3d88310B6F110ee8c</code> <br>
